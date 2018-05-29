@@ -1,2 +1,2 @@
-# AP-Computer-Science
+# AP Computer Science
 All the code from my AP Computer Science class. Please disregard any poor style or generally bad code...
